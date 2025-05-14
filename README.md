@@ -1,6 +1,7 @@
 # Conversor de Monedas
 
 Una aplicación Java que permite realizar conversiones entre diferentes monedas utilizando tipos de cambio en tiempo real a través de la API de ExchangeRate-API.
+Este programa hace parte del programa BackEnd de Alura Latam
 
 ## Características
 
