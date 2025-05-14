@@ -1,0 +1,19 @@
+# Archivos de configuración con credenciales
+*.properties
+
+# Archivos compilados de Java
+*.class
+
+# Directorios de compilación
+out/
+target/
+build/
+
+# Archivos del IDE
+*.iml
+.idea/
+.vscode/
+
+# Logs y archivos temporales
+*.log
+*.tmp
